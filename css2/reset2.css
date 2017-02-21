@@ -1,0 +1,23 @@
+*{
+	margin:0px;
+	padding: 0px;
+}
+
+li{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+.border{
+	border:1px solid black;
+}
+#container{
+	width:100%;
+	height:450px;
+	margin:0px auto;
+}
+ul ol body html{
+	margin: 0;
+	padding: 0;
+}
